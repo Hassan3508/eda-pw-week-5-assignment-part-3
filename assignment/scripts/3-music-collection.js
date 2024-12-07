@@ -2,6 +2,7 @@ console.log('***** Music Collection *****')
 // Safe Zone -- Write code below this line
 const myCollection =[];
 function addToCollection(collection, title, artist, yearPublished) {
+  collection.push(Smasha);
   // your code here...
   const Smasha = {
     title: "The Goodest",
