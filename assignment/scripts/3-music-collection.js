@@ -17,7 +17,7 @@ function addToCollection(collection, title, artist, yearPublished) {
   console.log(addToCollection(myCollection,"Watamu Kwa Boma", "Ali Kiba", 1977));
   console.log(addToCollection(myCollection,"Sar", "Dida", 1980));
   console.log(addToCollection(myCollection,"The  Wall", "Smako", 1983));
-  console.log(myCollection);
+
   
   
   
