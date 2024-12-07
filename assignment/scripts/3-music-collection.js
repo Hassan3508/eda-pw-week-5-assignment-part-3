@@ -3,8 +3,11 @@ console.log('***** Music Collection *****')
 const myCollection =[];
 function addToCollection(collection, title, artist, yearPublished) {
   // your code here...
- const Smasha = {
- }
+  const Smasha = {
+    title: "The Goodest",
+    artist: "Diamond",
+    yearPublished: 1970,
+}
 }
 
 
