@@ -20,9 +20,13 @@ console.log(addToCollection(myCollection,"The  Wall", "Smako", 1983));
 console.log(myCollection);
 
 
-function showCollection (collection)
 
 
+function showCollection(collection) {
+  for (const album of collection) {
+      console.log(`${album.title} by ${album.artist}, published in ${album.yearPublished}`);
+  }
+}
 
 
 
