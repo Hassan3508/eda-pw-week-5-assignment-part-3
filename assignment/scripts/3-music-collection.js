@@ -34,9 +34,15 @@ showCollection(myCollection);
 
 function findByArtist(collection, artist) {
   const results = [];
+  for (let album of collection) {
+    
+    
+    
+  }
+  
   
 }
-
+  
 
 
 
