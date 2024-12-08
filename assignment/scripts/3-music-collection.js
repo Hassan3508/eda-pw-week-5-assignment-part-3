@@ -39,10 +39,12 @@ function findByArtist(collection, artist) {
       results.push(album)
     }
   }
+  
   return results;
-  
 }
-  
+console.log(findByArtist(myCollection, "Jarso")); 
+console.log(findByArtist(myCollection, "Ali Dere")); 
+console.log(findByArtist(myCollection, "Michael")); 
 
 
 
