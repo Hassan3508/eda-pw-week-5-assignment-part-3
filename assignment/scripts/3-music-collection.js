@@ -47,6 +47,9 @@ console.log(findByArtist(myCollection, "Ali Dere"));
 console.log(findByArtist(myCollection, "Michael")); 
 
 
+function search () {
+  
+}
 
 
 
