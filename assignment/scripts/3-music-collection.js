@@ -29,6 +29,23 @@ function showCollection(collection) {
 }
 
 
+showCollection(myCollection);
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
