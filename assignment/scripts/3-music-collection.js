@@ -33,9 +33,9 @@ showCollection(myCollection);
 
 
 function findByArtist(collection, artist) {
-
+  const results = [];
+  
 }
-
 
 
 
