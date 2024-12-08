@@ -30,21 +30,11 @@ function showCollection(collection) {
 
 
 showCollection(myCollection);
- 
 
 
+function findByArtist(collection, artist) {
 
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 
