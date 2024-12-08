@@ -39,7 +39,7 @@ function findByArtist(collection, artist) {
       results.push(album)
     }
   }
-  
+  return results;
   
 }
   
