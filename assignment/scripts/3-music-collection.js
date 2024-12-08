@@ -11,16 +11,39 @@ function addToCollection(collection, title, artist, yearPublished) {
     return Smasha;
   
   }
-  console.log(addToCollection(myCollection,"Borana Night", "Jarso", 1971));
-  console.log(addToCollection(myCollection,"The Thriller", "Michael", 1974));
-  console.log(addToCollection(myCollection,"Somali Danto", "Ali Dere", 1976));
-  console.log(addToCollection(myCollection,"Watamu Kwa Boma", "Ali Kiba", 1977));
-  console.log(addToCollection(myCollection,"Sar", "Dida", 1980));
-  console.log(addToCollection(myCollection,"The  Wall", "Smako", 1983));
+console.log(addToCollection(myCollection,"Borana Night", "Jarso", 1971));
+console.log(addToCollection(myCollection,"The Thriller", "Michael", 1974));
+console.log(addToCollection(myCollection,"Somali Danto", "Ali Dere", 1976));
+console.log(addToCollection(myCollection,"Watamu Kwa Boma", "Ali Kiba", 1977));
+console.log(addToCollection(myCollection,"Sar", "Dida", 1980));
+console.log(addToCollection(myCollection,"The  Wall", "Smako", 1983));
+console.log(myCollection);
 
-  
-  
-  
+
+function showCollection (collection)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
