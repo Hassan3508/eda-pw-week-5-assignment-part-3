@@ -3,9 +3,9 @@ console.log('***** Music Collection *****')
 const myCollection = [];
 function addToCollection(collection, title, artist, yearPublished) {
   const Smasha = {
-      title: "The Goodest",
-      artist: "Diamond",
-      yearPublished: 1970,
+      title,
+      artist,
+      yearPublished,
   }
   collection.push(Smasha);
     return Smasha;
@@ -48,7 +48,7 @@ console.log(findByArtist(myCollection, "Michael"));
 
 
 function search (collection,searchCriteria) {
-
+  
 }
 
 
